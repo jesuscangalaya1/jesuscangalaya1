@@ -50,6 +50,22 @@
 ---
 
 ### 📊 My Stats :
-   
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesuscangalaya1&theme=transparent&hide_border=FALSO&border_radius=10)](https://git.io/streak-stats)
+
+    
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesuscangalaya1&theme=onedark)](https://git.io/streak-stats)
+    
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuscangalaya1&show_icons=true&theme=radical)
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuscangalaya1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
