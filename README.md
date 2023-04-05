@@ -50,9 +50,3 @@
 ---
 
 ### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jesus Cangalaya&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesus Cangalaya&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus Cangalaya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
