@@ -50,3 +50,6 @@
 ---
 
 ### 📊 My Stats :
+   
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesuscangalaya1&theme=transparent&hide_border=FALSO&border_radius=10)](https://git.io/streak-stats)
+    
