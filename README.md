@@ -24,8 +24,6 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
-
 - 💬 Pregúntame acerca de **Java, Spring, Spring Boot, Patron De Diseño**
 
 - 📫 Cómo contactarme: **jesuscangalaya1@gmail.com**
