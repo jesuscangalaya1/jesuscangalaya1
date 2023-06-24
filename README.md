@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
         alt="GitHub  Badge" />
     </a>    
-    <a href="https://www.linkedin.com/in/jes%C3%BAs-c-a2b474259/" target="_blank">
+    <a href="https://www.linkedin.com/in/jesus-cangalaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Activo-blue?style=for-the-badge&logo=linkedin"
         alt="LinkedIn  Badge" />
     </a>
@@ -30,7 +30,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Spring Security, JWT, Keycloak, Junit - Mockito - Pruebas de integracion**
 
-- 🔍 Si quieres conocer más acerca de mi experiencia y habilidades, puedes visitar mi perfil de LinkedIn en: [https://www.linkedin.com/in/jes%C3%BAs-c-a2b474259/]
+- 🔍 Si quieres conocer más acerca de mi experiencia y habilidades, puedes visitar mi perfil de LinkedIn en: <a href="https://www.linkedin.com/in/jesus-cangalaya/">Mi perfil de LinkedIn</a>
 
 
 <div align="left">
