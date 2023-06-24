@@ -30,7 +30,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Spring Security, JWT, Keycloak, Junit - Mockito - Pruebas de integracion**
 
-- 🔍 Si quieres conocer más acerca de mi experiencia y habilidades, puedes visitar mi perfil de LinkedIn en: <a href="https://www.linkedin.com/in/jesus-cangalaya/">Mi perfil de LinkedIn</a>
+- 🔍 Si quieres conocer más acerca de mi experiencia y habilidades, puedes visitar mi perfil de LinkedIn en: <a href="https://www.linkedin.com/in/jesus-cangalaya/">Mi LinkedIn</a>
 
 
 <div align="left">
