@@ -44,6 +44,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="50" height="50"/>&nbsp;
+        <img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1677508436Prancheta_1.png?utm_campaign=alura_latam_-_challenge_email_projeto_6_esp&utm_medium=email&utm_source=RD+Station" title="Postman" **alt="ONE" width="50" height="50"/>&nbsp;
       </div>
 </div>
 
